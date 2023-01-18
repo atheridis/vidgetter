@@ -1,0 +1,6 @@
+Very Simple Video Downloader
+============================
+
+A very simple video downloader using yt-dlp in the backend.
+It's build to not be over complicated in options and to be
+easy to use for most people.
